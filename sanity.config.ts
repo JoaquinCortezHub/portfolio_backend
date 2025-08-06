@@ -6,7 +6,7 @@ import { codeInput } from '@sanity/code-input'
 
 export default defineConfig({
   name: 'default',
-  title: 'blog_practice',
+  title: 'Personal Portfolio',
 
   projectId: '931obkaz',
   dataset: 'production',
